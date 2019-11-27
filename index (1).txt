@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+
+
+<head>
+<link rel="stylesheet" type="text/css" href="opmaak.css">
+</head>
+
+
+<body>
+
+
+<ul style="list-style-type: none;">
+    <li><h1><a href="index.html">HOME</a></h1></li>
+    <li><h1><a href="pagina2.html">Over Ons</a></h1></li>
+    <li><h1><a href="pagina3.html">OJC Rosmalen</a></h1></li>
+    <li><h1><a href="pagina4.html">FC Engelen</a></h1></li>
+    <li><h1><a href="pagina5.html">Contact</a></h1></li>
+</ul>
+
+
+<div class="titel">
+
+
+<h2>Home</h2>
+
+
+</div>
+
+
+
+
+<div class="tekst">
+
+
+<p>Gerenoveerd clubhuis</p>
+
+
+<div class="afbeelding">
+<img src="https://fcengelen.sportlinkclubsites.nl/wp-content/uploads/slider-wd/0512-headerphoto2-Engelen_005.JPG">
+</div>
+
+
+<p>Aanleg nieuw kunstgrasveld</p>
+
+
+<div class="afbeelding">
+<img src="https://images4.persgroep.net/rcs/j4oXXYsYOjTGT5E78wuoeqD4QGo/diocontent/144587974/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9">
+</div>
+
+
+</div>
+
+
+</body>
+</html>

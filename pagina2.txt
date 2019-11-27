@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+
+
+<head>
+<link rel="stylesheet" type="text/css" href="opmaak.css">
+</head>
+
+
+<body>
+
+
+  <ul style="list-style-type: none;">
+      <li><h1><a href="index.html">HOME</a></h1></li>
+      <li><h1><a href="pagina2.html">Over Ons</a></h1></li>
+      <li><h1><a href="pagina3.html">OJC Rosmalen</a></h1></li>
+      <li><h1><a href="pagina4.html">FC Engelen</a></h1></li>
+      <li><h1><a href="pagina5.html">Contact</a></h1></li>
+  </ul>
+
+
+
+
+<div class="titel">
+
+
+<h2>Over Ons</h2>
+
+
+</div>
+
+
+
+
+<div class="tekst">
+
+
+<h3>Informatie</h3>
+<table style="width:100%">
+  <tr>
+    <th>Naam</th>
+    <th>Club</th>
+    <th>Leeftijd</th>
+  </tr>
+  <tr>
+    <td>Pim van den Broek</td>
+    <td>OJC Rosmalen</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>Willem Vijverberg</td>
+    <td>FC Engelen</td>
+    <td>16</td>
+  </tr>
+</table>
+  
+<p>FD Engelen JO17-3</p>
+
+
+<div class="afbeelding">
+<img src="https://images.sportlinkclubsites.nl/new/?token=RdFbCMmaIRb8j4TeOciv1zPnkv2iH57L3aLBz4eM8pUTBBu4rZDQwCoNU5iuxouF&type=teamfoto&client_id=nabUmV69Md&teamcode=329413&lokaleteamcode=-1">
+</div>
+
+
+<p>OJC Rosmalen JO19-4</p>
+
+
+<div class="afbeelding">
+<img src="https://pbs.twimg.com/media/C7x0nFRXgAAhm8X.jpg">
+</div>
+
+
+</div>
+
+
+</body>
+</html>
